@@ -7,4 +7,4 @@ replay دستی
 crash وسط کار
 scheduler که دوباره eventها را برمی‌دارد
 و مهم‌تر از همه: در کد فعلی تو چند نقطه race condition وجود دارد.
-</div>
+<div/>
